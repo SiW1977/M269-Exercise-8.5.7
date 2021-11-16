@@ -1,3 +1,6 @@
+# Initiated by Si Woolley
+# Date: 16/11/2021
+
 class Bag:
     """An unordered collection of items, potentially with
         duplicates, based on Python's dict class.
